@@ -1,0 +1,25 @@
+body {
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.window {
+    border: 2px solid red;
+    padding: 10px;
+}
+
+.col {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.button,
+.result {
+    text-align: center;
+}
+
+.col {
+
+    margin-top: 20px;
+}
